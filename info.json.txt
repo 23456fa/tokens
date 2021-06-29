@@ -1,11 +1,11 @@
 {
- "name": "Clown HECO Huobi",
- "website": "无",
- "description":  Clown HECO huobi简称CHH是发行火币生态链永不增发币种，潜力巨大",
- "explorer": "https://hecoinfo.com/address/0x5c8928860fd19ba0fc364bbe9d1b99b084e88889",
- "type": "HRC20",
- "symbol": "CHH",
- "decimals": 18,
+ "name": "Greenearth",
+ "website": "http://Greenearth.com/",
+ "description": "Bed in green earth.",
+ "explorer": "https://hecoinfo.com/token/0x8F804c8Ee9d58FCA2F383D056B932552cAADb18B",
+ "type": "BEP20",
+ "symbol": "Greenearth",
+ "decimals": 9,
  "status": "active",
- "id": "0x5c8928860fd19ba0fc364bbe9d1b99b084e88889"
+ "id": "0x227b66ffc508ddd787b38da845e9a00c039c95c6"
 }
